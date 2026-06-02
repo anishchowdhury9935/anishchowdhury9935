@@ -60,7 +60,7 @@ I am a full-time **Freelance Full-Stack Developer & Blockchain Engineer** with o
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&theme=dark" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
@@ -134,27 +134,6 @@ I am a full-time **Freelance Full-Stack Developer & Blockchain Engineer** with o
 
 ---
 
-## 🎯 Featured Codebases & Open Source
-
-<table>
-  <tr>
-    <td>
-      <h3>🎰 betting_tg_bot</h3>
-      <p>A fully autonomous Telegram betting application featuring automated blockchain/cryptocurrency transaction monitors and native payment gateways. Built entirely with scalable JavaScript architectures.</p>
-      <a href="https://github.com/anishchowdhury9935/betting_tg_bot" target="_blank">📁 View Codebase</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>🛠️ old-to-new-react</h3>
-      <p>A dedicated codebase focusing on migration paradigms, upgrading legacy systems, and optimizing modern React hooks and performance patterns.</p>
-      <a href="https://github.com/anishchowdhury9935/old-to-new-react" target="_blank">📁 View Codebase</a>
-    </td>
-  </tr>
-</table>
-
----
-
 ## ⚙️ Development Principles & Pipeline
 
 <table width="100%">
@@ -176,16 +155,28 @@ I am a full-time **Freelance Full-Stack Developer & Blockchain Engineer** with o
 
 ---
 
-## 📬 Let's Collaborate on Your Next Venture!
+## 📬 Connect & Collaborate
 
-<p align="center">
-  Have a freelance project, an idea for an AI agent, or an automation pipeline you need engineered?<br /><b>Let’s connect and talk strategy!</b>
-</p>
+Have a freelance project, an engineering bottleneck, or an application pipeline you need structured? Get in touch and let's build something scalable.
 
-<p align="center">
-  <a href="https://anishportfolio.online/">🌐 Website Portfolio</a> • 
-  <a href="https://t.me/Back_track_og">💬 Telegram Chat</a> • 
-  <a href="mailto:anishchowdhury9935@gmail.com">📧 Email Inquiries</a>
-</p>
+<table width="100%">
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <h3>✉️ Email</h3>
+      <p>Drop a line for business inquiries, RFPs, and consulting slots.</p>
+      <a href="mailto:hello@anish.dev"><code>hello@anish.dev</code></a>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3>📱 Telegram</h3>
+      <p>Direct encrypted instant message line for fast technical discovery chats.</p>
+      <a href="https://t.me/Back_track_og"><code>@Back_track_og</code></a>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3>🌐 Web Portfolio</h3>
+      <p>Explore full case studies, technical breakdowns, and interactive components.</p>
+      <a href="https://anishportfolio.online/"><code>anishportfolio.online</code></a>
+    </td>
+  </tr>
+</table>
 
 <br />
