@@ -69,7 +69,41 @@ I am a full-time **Freelance Full-Stack Developer** specializing in building hig
 
 ---
 
-## 🎯 Featured Project Highlights
+## 🚀 Recent Client Projects
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🍗 Hey Fried Chicken</h3>
+      <p>Built entirely as a solo developer for a production-tier consumer facing brand deployment.</p>
+      <a href="https://heyfriedchicken.com/" target="_blank">🔗 Live Project Link</a>
+      <br><br>
+      <img src="https://img.shields.io/badge/Role-Solo%20Developer-0078ff?style=flat-square" alt="Solo Badge">
+    </td>
+    <td width="50%" valign="top">
+      <h3>🐋 Whale by Matt Furie</h3>
+      <p>Developed independently as a solo project, featuring sleek visual assets and clean interactive landing interfaces.</p>
+      <a href="https://whalebymattfurie.com/" target="_blank">🔗 Live Project Link</a>
+      <br><br>
+      <img src="https://img.shields.io/badge/Role-Solo%20Developer-0078ff?style=flat-square" alt="Solo Badge">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛍️ Madin Shop (Buy 1 Get 1)</h3>
+      <p>Engineered as part of a high-performance 3-person team to handle optimized consumer marketing traffic pipelines.</p>
+      <a href="https://shopmadin.com/buy1get1free/" target="_blank">🔗 Live Project Link</a>
+      <br><br>
+      <img src="https://img.shields.io/badge/Role-3--Man%20Team-orange?style=flat-square" alt="Team Badge">
+    </td>
+    <td width="50%" valign="top">
+      </td>
+  </tr>
+</table>
+
+---
+
+## 🎯 Featured Codebases & Open Source
 
 <table>
   <tr>
