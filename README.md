@@ -17,13 +17,13 @@
 
 <br />
 
-### 👤 About Me
+## 👤 About Me
 
 I am a full-time **Freelance Full-Stack Developer** specializing in building highly functional web applications, custom AI integrations, and advanced automation pipelines. I engineer robust backend logic, sleek user interfaces, and custom crypto-integrated ecosystems to turn complex technical challenges into seamless digital products.
 
 ---
 
-### 🛠️ Tech Stack & Tooling
+## 🛠️ Tech Stack & Tooling
 
 <p align="left">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
@@ -42,26 +42,26 @@ I am a full-time **Freelance Full-Stack Developer** specializing in building hig
 
 ---
 
-### 💼 Services Offered
+## 💼 Services Offered
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>⚡ Custom Automation & Workflows</h4>
+      <h3>⚡ Custom Automation & Workflows</h3>
       <p>Eliminate manual tasks by linking your apps, databases, and CRMs using high-efficiency <b>n8n</b> logic pipelines.</p>
     </td>
     <td width="50%" valign="top">
-      <h4>🤖 AI Integration & Custom LLMs</h4>
+      <h3>🤖 AI Integration & Custom LLMs</h3>
       <p>Train, fine-tune, and deploy custom AI agents, chatbots, and large language model features natively inside your stack.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>📱 Telegram Mini-Apps & Bots</h4>
+      <h3>📱 Telegram Mini-Apps & Bots</h3>
       <p>End-to-end development of Telegram Web Apps (TWAs), crypto mini-games, and utility bots complete with payment rails.</p>
     </td>
     <td width="50%" valign="top">
-      <h4>🌐 Full-Scale Web Applications</h4>
+      <h3>🌐 Full-Scale Web Applications</h3>
       <p>Scalable, performance-optimized React and Node.js solutions built to handle heavy user traffic and dense data streams.</p>
     </td>
   </tr>
@@ -69,7 +69,7 @@ I am a full-time **Freelance Full-Stack Developer** specializing in building hig
 
 ---
 
-### 🎯 Featured Project Highlights
+## 🎯 Featured Project Highlights
 
 <table>
   <tr>
@@ -90,20 +90,33 @@ I am a full-time **Freelance Full-Stack Developer** specializing in building hig
 
 ---
 
-### 📊 My GitHub Insights
+## ⚙️ My Architectural Workflow & Core Principles
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anishchowdhury9935&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true" alt="Anish's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishchowdhury9935&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" width="48%" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="33%" align="center">
+      <b>1. Plan & Automate 🧠</b><br />
+      <sub>Mapping custom n8n data flows and engineering API hooks before writing core code.</sub>
+    </td>
+    <td width="33%" align="center">
+      <b>2. Secure & Scale 🔒</b><br />
+      <sub>Writing clean TypeScript/JavaScript backend pipelines with Web3/crypto encryption standards.</sub>
+    </td>
+    <td width="33%" align="center">
+      <b>3. Polish UI/UX 🎨</b><br />
+      <sub>Designing seamless modern interfaces optimized for both desktop web and Telegram Mini-Apps.</sub>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anishchowdhury9935&theme=tokyonight&hide_border=false" width="97%" alt="GitHub Streak" />
-</p>
+### ⏳ Current Focus & R&D
+- 📡 **Optimizing:** High-frequency event handling inside Telegram Web Apps.
+- 🧪 **Experimenting:** Fine-tuning lightweight open-source LLMs for specialized client automations.
+- 💼 **Open For:** Custom full-stack web applications, n8n architecture consultations, and technical partnership roles.
 
 ---
 
-### 📬 Let's Collaborate on Your Next Venture!
+## 📬 Let's Collaborate on Your Next Venture!
 
 <p align="center">
   Have a freelance project, an idea for an AI agent, or an automation pipeline you need engineered?<br /><b>Let’s connect and talk strategy!</b>
