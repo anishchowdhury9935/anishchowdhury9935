@@ -19,7 +19,22 @@
 
 ## 👤 About Me
 
-I am a full-time **Freelance Full-Stack Developer & Blockchain Engineer** with over 2 years of professional experience crafting high-performance digital products. I specialize in building robust web infrastructures, engineering custom automation workflows, and deploying scalable Web3 applications (Solidity, SPL tokens, and custom smart contracts).
+<table width="100%">
+  <tr>
+    <td width="65%" valign="top">
+      <h3>👋 Code Architect & Problem Solver</h3>
+      <blockquote>
+        I am a full-time <b>Freelance Full-Stack Developer & Blockchain Engineer</b> with over 2 years of professional experience crafting high-performance digital products. My goal is to turn complex technical bottlenecks into clean, scalable, and user-first software architectures.
+      </blockquote>
+      <p>🎯 <b>My Focus:</b> I bridge the gap between complex web development, automated intelligence, and decentralized finance. Whether it's crafting lightning-fast frontends or setting up high-volume server infrastructures, I design end-to-end setups engineered for raw scale.</p>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://img.shields.io/badge/Experience-2+%20Years-0078ff?style=for-the-badge" alt="Exp Badge"><br><br>
+      <img src="https://img.shields.io/badge/Specialty-Full--Stack%20%26%20Web3-333333?style=for-the-badge" alt="Specialty Badge"><br><br>
+      <img src="https://img.shields.io/badge/Availability-Freelance%20/%20Contracts-0078ff?style=for-the-badge" alt="Availability Badge">
+    </td>
+  </tr>
+</table>
 
 ---
 
