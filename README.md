@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/type=waving&color=0078ff&height=220&section=header&text=Anish%20Chowdhury&fontSize=45&animation=fadeIn&fontColor=ffffff" width="100%" alt="Header Banner" />
-</p>
+</p> -->
 
 <p align="center">
   <strong>🚀 Full-Stack Developer & Blockchain Engineer</strong>
