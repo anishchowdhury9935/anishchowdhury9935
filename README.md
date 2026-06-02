@@ -90,21 +90,21 @@ I am a full-time **Freelance Full-Stack Developer & Blockchain Engineer** with o
 ## 💼 Professional Journey & Milestones
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=rect&color=0078ff&height=40&text=⚡%20Blockchain%20Engineer%20%20•%20%20CryptoSolutions%20(2025%20--%20Present)&fontSize=16&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/type=rect&color=0078ff&height=40&text=%E2%9A%A1%20Blockchain%20Engineer%20%7C%20CryptoSolutions%20(2025%20-%20Present)&fontSize=16&fontColor=ffffff" width="100%"/>
 </p>
 <blockquote>
   Architected and deployed production-grade decentralized applications, protocol smart contracts, and custom Web3 crypto wallet/payment gateway tracking rails.
 </blockquote>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=rect&color=333333&height=40&text=⚙️%20Full-Stack%20Developer%20%20•%20%20TechCorp%20Inc.%20(2024%20--%202025)&fontSize=16&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/type=rect&color=333333&height=40&text=%E2%9A%99%EF%B8%8F%20Full-Stack%20Developer%20%7C%20TechCorp%20Inc.%20(2024%20-%202025)&fontSize=16&fontColor=ffffff" width="100%"/>
 </p>
 <blockquote>
   Led core feature logic engineering for high-traffic web apps using React and Node.js. Established codebase standards and scaled data throughput pipelines.
 </blockquote>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=rect&color=0078ff&height=40&text=🎨%20Frontend%20Developer%20%20•%20%20StartupXYZ%20(2023%20--%202024)&fontSize=16&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/type=rect&color=0078ff&height=40&text=%F0%9F%8E%A1%20Frontend%20Developer%20%7C%20StartupXYZ%20(2023%20-%202024)&fontSize=16&fontColor=ffffff" width="100%"/>
 </p>
 <blockquote>
   Created interactive client-facing modules using Vue and React. Accelerated global application speed and client runtime metrics by 40%.
