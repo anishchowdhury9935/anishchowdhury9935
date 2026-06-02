@@ -121,7 +121,7 @@ I am a full-time **Freelance Full-Stack Developer & Blockchain Engineer** with o
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛍️ Madin Shop (Buy 1 Get 1)</h3>
+      <h3>🛍️ Madin Shop</h3>
       <p>High-performance consumer marketing channel built collaboratively as a 3-person team.</p>
       <a href="https://shopmadin.com/buy1get1free/" target="_blank">🔗 Live Project Link</a>
       <br><br>
