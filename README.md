@@ -87,27 +87,27 @@ I am a full-time **Freelance Full-Stack Developer & Blockchain Engineer** with o
 
 ---
 
-## 🛠️ The Development Pipeline
+## 💼 Professional Journey & Milestones
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=rect&color=0078ff&height=50&text=01.%20Architecting%20&%20Logic&fontSize=20&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/type=rect&color=0078ff&height=40&text=⚡%20Blockchain%20Engineer%20%20•%20%20CryptoSolutions%20(2025%20--%20Present)&fontSize=16&fontColor=ffffff" width="100%"/>
 </p>
 <blockquote>
-  Mapping complex backend routing, GraphQL schemes, and <b>n8n</b> automation triggers before a single line of core code is written.
+  Architected and deployed production-grade decentralized applications, protocol smart contracts, and custom Web3 crypto wallet/payment gateway tracking rails.
 </blockquote>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=rect&color=333333&height=50&text=02.%20Engineering%20&%20Security&fontSize=20&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/type=rect&color=333333&height=40&text=⚙️%20Full-Stack%20Developer%20%20•%20%20TechCorp%20Inc.%20(2024%20--%202025)&fontSize=16&fontColor=ffffff" width="100%"/>
 </p>
 <blockquote>
-  Building bulletproof infrastructures wrapped in Docker, optimized with Redis caching layers, and secured for Web3 transaction processing.
+  Led core feature logic engineering for high-traffic web apps using React and Node.js. Established codebase standards and scaled data throughput pipelines.
 </blockquote>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=rect&color=0078ff&height=50&text=03.%20Deployment%20&%20Polish&fontSize=20&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/type=rect&color=0078ff&height=40&text=🎨%20Frontend%20Developer%20%20•%20%20StartupXYZ%20(2023%20--%202024)&fontSize=16&fontColor=ffffff" width="100%"/>
 </p>
 <blockquote>
-  Transforming high-fidelity Figma designs into pixel-perfect, high-performance web experiences using Next.js, Astro, and GSAP.
+  Created interactive client-facing modules using Vue and React. Accelerated global application speed and client runtime metrics by 40%.
 </blockquote>
 
 ---
